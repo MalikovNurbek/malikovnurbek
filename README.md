@@ -1,4 +1,4 @@
-![Header]()
+![Header](https://github.com/MalikovNurbek/malikovnurbek/blob/main/img/header.png)
 
 ## I' am beginner developer
 
@@ -19,4 +19,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malikovnurbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baimyrzaev&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malikovnurbek&show_icons=true&theme=dracula)
